@@ -1,16 +1,3 @@
-# a_simple_login_page
+# A Simple Login Page
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240212-202610](https://github.com/MayarTSABET/A-Simple-login-Page/assets/127050347/e9796655-2d19-4569-90b8-bdc83bca28f9)
